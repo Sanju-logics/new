@@ -1,2 +1,2 @@
 # new
-pro1
+proj1
